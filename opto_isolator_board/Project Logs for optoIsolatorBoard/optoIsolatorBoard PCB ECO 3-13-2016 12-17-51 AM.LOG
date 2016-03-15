@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=C1 Old DesignItemId=cap5-12x20 New DesignItemId=cap5-8x10
+Change Component Footprint: Designator=C1 Old Footprint=cap5-12x20 New Footprint=CAP4-8X10
+Added Room: Name=optoIsolatorBoard

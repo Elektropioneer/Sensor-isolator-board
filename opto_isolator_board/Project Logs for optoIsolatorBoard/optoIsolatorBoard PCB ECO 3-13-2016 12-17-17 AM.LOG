@@ -1,0 +1,3 @@
+Added Component: Designator=C?(CAP4-8X10)
+Added Member To Class: ClassName=optoIsolatorBoard Member=Component C? *
+Added Room: Name=optoIsolatorBoard
